@@ -3,8 +3,8 @@ require 'rubygems'
     require 'mechanize' 
     require 'nokogiri'
     
-    @linkedin_username = "ttunguz@redpoint.com"
-    @linkedin_password = "TFnaG7Ej3u<Fef*v"
+    @linkedin_username = "usersame"
+    @linkedin_password = "password"
     
     agent = Mechanize.new
     agent.user_agent_alias = "Mac Safari"
