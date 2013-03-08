@@ -3,7 +3,7 @@ require 'rubygems'
     require 'mechanize' 
     require 'nokogiri'
     
-    @linkedin_username = "usersame"
+    @linkedin_username = "username"
     @linkedin_password = "password"
     
     agent = Mechanize.new
